@@ -1,0 +1,18 @@
+Esta asignatura aporta, al perfil del ingeniero, la capacidad para desarrollar un pensamiento
+lógico, identificar el proceso de creación de un programa y desarrollo de algoritmos para
+resolver problemas.
+La asignatura proporciona al estudiante de ingeniería una herramienta para resolver
+problemas de aplicaciones de la vida ordinaria y de aplicaciones de la ingeniería.
+Está diseñada para el logro de competencias específicas dirigidas al aprendizaje de los
+dominios: manejo de consola y diseño de algoritmos. Comprenderá los conceptos básicos
+de la programación y escribirá expresiones aritméticas y lógicas en un lenguaje de
+programación. Así como el uso y funcionamiento de las estructuras secuenciales, selectivas,
+arreglos unidimensionales y multidimensionales en el desarrollo de aplicaciones. Será
+capaz de aplicarlos al construir y desarrollar aplicaciones de software que requieran dichas
+estructuras.
+Este curso genera las competencias necesarias para que el alumno desarrolle aplicaciones
+que den solución a los problemas que le plantee la vida diaria.
+Fundamentos de programación es el soporte directo de las asignaturas: programación
+orientada a objetos, estructura de datos, tópicos avanzados de programación y de forma
+indirecta se relaciona con el desarrollo de sistemas de software, sistemas operativos y
+programación de sistemas.
